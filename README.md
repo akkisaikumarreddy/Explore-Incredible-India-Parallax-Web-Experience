@@ -13,7 +13,7 @@ A modern, multi-layered responsive web application showcasing India's iconic lan
 ## 🚀 Live Demo
 
 Check out the interactive live parallax experience:  
-👉 **[View Live Demo](https://akkisaikumarreddy.github.io/explore-incredible-india/)**  
+👉 **[View Live Demo](https://akkisaikumarreddy.github.io/Explore-Incredible-India-Parallax-Web-Experience/)**  
 
 ---
 
